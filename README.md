@@ -5,7 +5,7 @@ Home: https://github.com/OpenMined/syft-proto
 
 Package license: Apache
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: PySyft protocol constants.
 
