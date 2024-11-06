@@ -1,5 +1,5 @@
 {% set name = "syft-proto" %}
-{% set version = "0.5.2" %}
+{% set version = "0.5.3" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: e83580670b63d50744b219ced59b04c75fd150e9d9577c898129c820089c4024
+  sha256: 077550d66cb5013cd0ebec2e08622259816b09006b92a7c68406f446d8266477
 
 build:
   number: 0
